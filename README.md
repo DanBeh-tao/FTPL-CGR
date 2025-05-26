@@ -4,7 +4,7 @@
 **[ICML 2025]**
 
 
-[**Botao Chen**] * · [**Jongyeong Lee**] † · [**Junya Honda**] *‡
+**Botao Chen** * · **Jongyeong Lee** † · **Junya Honda** *‡
 
 \* Kyoto University
 † Seoul National University
